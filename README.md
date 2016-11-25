@@ -1,1 +1,1 @@
-# IoT-AndroidAplications_2
+# IoT-AndroidApplications_2
